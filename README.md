@@ -1,6 +1,8 @@
-# myspring-boot-template
+# basic spring feign client application
 
 Basic Spring Boot Feign Client Application
+
+Spring Boot + Spring Data JPA + Spring Cloud Feign Client
 
 ## Profiles
 * dev
