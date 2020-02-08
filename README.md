@@ -1,8 +1,6 @@
 # basic spring feign client application
 
-Basic Spring Boot Feign Client Application
-
-Spring Boot + Spring Data JPA + Spring Cloud Feign Client
+(Spring Boot + Spring Data JPA + Spring Cloud Feign Client) Basic Spring Boot Feign Client Application
 
 ## Profiles
 * dev
