@@ -1,4 +1,4 @@
-# basic spring feign client application
+# Basic Spring Feign Client Application
 
 Basic Spring Boot Feign Client Application
 

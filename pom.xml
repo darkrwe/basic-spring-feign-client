@@ -15,6 +15,7 @@
         <mysqlConnectorVersion>5.1.46</mysqlConnectorVersion>
         <snakeYamlVersion>1.23</snakeYamlVersion>
         <junit.version>4.11</junit.version>
+        <spring-cloud.version>Finchley.SR4</spring-cloud.version>
     </properties>
 
     <dependencyManagement>

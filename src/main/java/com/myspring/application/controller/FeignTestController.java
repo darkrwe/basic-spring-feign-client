@@ -22,7 +22,6 @@ public class FeignTestController {
 
     @GetMapping("/")
     public ResponseEntity<String> getSimplePageHtml() {
-        String str = basicSpringFeignClient.getData();
-        return new ResponseEntity(str, HttpStatus.OK);
+        return new ResponseEntity(basicSpringFeignClient.getData(), HttpStatus.OK);
     }
 }
